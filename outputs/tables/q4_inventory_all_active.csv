@@ -1,0 +1,70 @@
+ProductID,ProductName,CategoryName,UnitsInStock,UnitsOnOrder,ReorderLevel,Status,MonthlyDemand,StockPosition,MonthsOfCover,AtRisk,ReorderLevelZero
+60,Camembert Pierrot,Dairy Products,19,0,0,OK,135.0,19,0.1407,True,True
+13,Konbu,Seafood,24,0,5,OK,161.25,24,0.1488,True,False
+7,Uncle Bob's Organic Dried Pears,Produce,15,0,10,OK,99.5,15,0.1508,True,False
+62,Tarte au sucre,Confections,17,0,0,OK,87.75,17,0.1937,True,True
+8,Northwoods Cranberry Sauce,Condiments,6,0,0,OK,29.0,6,0.2069,True,True
+30,Nord-Ost Matjeshering,Seafood,10,0,15,Missed reorder,48.0,10,0.2083,True,False
+38,Côte de Blaye,Beverages,17,0,15,OK,65.0,17,0.2615,True,False
+68,Scottish Longbreads,Confections,6,10,15,Restock coming,56.5,16,0.2832,True,False
+26,Gumbär Gummibärchen,Confections,15,0,0,OK,52.75,15,0.2844,True,True
+72,Mozzarella di Giovanni,Dairy Products,14,0,0,OK,48.25,14,0.2902,True,True
+71,Fløtemysost,Dairy Products,26,0,0,OK,85.5,26,0.3041,True,True
+35,Steeleye Stout,Beverages,20,0,15,OK,65.75,20,0.3042,True,False
+51,Manjimup Dried Apples,Produce,20,0,10,OK,55.5,20,0.3604,True,False
+10,Ikura,Seafood,31,0,0,OK,77.5,31,0.4,True,True
+70,Outback Lager,Beverages,15,10,30,Restock coming,62.0,25,0.4032,True,False
+16,Pavlova,Confections,29,0,10,OK,71.5,29,0.4056,True,False
+1,Chai,Beverages,39,0,10,OK,89.75,39,0.4345,True,False
+77,Original Frankfurter grüne Soße,Condiments,32,0,15,OK,66.5,32,0.4812,True,False
+21,Sir Rodney's Scones,Confections,3,40,5,Restock coming,87.75,43,0.49,True,False
+19,Teatime Chocolate Biscuits,Confections,25,0,5,OK,42.5,25,0.5882,True,False
+76,Lakkalikööri,Beverages,57,0,20,OK,96.5,57,0.5907,True,False
+59,Raclette Courdavault,Dairy Products,79,0,0,OK,128.25,79,0.616,True,True
+56,Gnocchi di nonna Alice,Grains/Cereals,21,10,30,Restock coming,49.0,31,0.6327,True,False
+63,Vegie-spread,Condiments,24,0,5,OK,36.75,24,0.6531,True,False
+2,Chang,Beverages,17,40,25,Restock coming,83.5,57,0.6826,True,False
+43,Ipoh Coffee,Beverages,17,10,25,Restock coming,37.5,27,0.72,True,False
+69,Gudbrandsdalsost,Dairy Products,26,0,15,OK,33.75,26,0.7704,True,False
+57,Ravioli Angelo,Grains/Cereals,36,0,20,OK,44.25,36,0.8136,True,False
+54,Tourtière,Meat/Poultry,21,0,10,OK,21.75,21,0.9655,True,False
+11,Queso Cabrales,Dairy Products,22,30,30,Restock coming,53.0,52,0.9811,True,False
+31,Gorgonzola Telino,Dairy Products,0,70,20,Restock coming,69.25,70,1.0108,False,False
+52,Filo Mix,Grains/Cereals,38,0,25,OK,34.25,38,1.1095,False,False
+18,Carnarvon Tigers,Seafood,42,0,0,OK,37.75,42,1.1126,False,True
+58,Escargots de Bourgogne,Seafood,62,0,20,OK,50.5,62,1.2277,False,False
+39,Chartreuse verte,Beverages,69,0,5,OK,55.5,69,1.2432,False,False
+75,Rhönbräu Klosterbier,Beverages,125,0,25,OK,100.25,125,1.2469,False,False
+49,Maxilaku,Confections,10,60,15,Restock coming,54.25,70,1.2903,False,False
+47,Zaanse koeken,Confections,36,0,0,OK,27.5,36,1.3091,False,True
+23,Tunnbröd,Grains/Cereals,61,0,25,OK,46.5,61,1.3118,False,False
+41,Jack's New England Clam Chowder,Seafood,85,0,10,OK,63.5,85,1.3386,False,False
+32,Mascarpone Fabioli,Dairy Products,9,40,25,Restock coming,36.5,49,1.3425,False,False
+20,Sir Rodney's Marmalade,Confections,40,0,0,OK,27.5,40,1.4545,False,True
+44,Gula Malacca,Condiments,27,0,15,OK,16.75,27,1.6119,False,False
+40,Boston Crab Meat,Seafood,123,0,30,OK,75.75,123,1.6238,False,False
+67,Laughing Lumberjack Lager,Beverages,52,0,10,OK,28.5,52,1.8246,False,False
+55,Pâté chinois,Meat/Poultry,115,0,20,OK,62.5,115,1.84,False,False
+36,Inlagd Sill,Seafood,112,0,20,OK,58.5,112,1.9145,False,False
+64,Wimmers gute Semmelknödel,Grains/Cereals,22,80,30,Restock coming,50.75,102,2.0099,False,False
+34,Sasquatch Ale,Beverages,111,0,15,OK,52.5,111,2.1143,False,False
+61,Sirop d'érable,Condiments,113,0,25,OK,51.75,113,2.1836,False,False
+33,Geitost,Dairy Products,112,0,20,OK,50.5,112,2.2178,False,False
+74,Longlife Tofu,Produce,4,20,5,Restock coming,10.0,24,2.4,False,False
+4,Chef Anton's Cajun Seasoning,Condiments,53,0,0,OK,20.25,53,2.6173,False,True
+46,Spegesild,Seafood,95,0,0,OK,32.0,95,2.9688,False,True
+45,Røgede sild,Seafood,5,70,15,Restock coming,25.25,75,2.9703,False,False
+27,Schoggi Schokolade,Confections,49,0,30,OK,16.25,49,3.0154,False,False
+65,Louisiana Fiery Hot Pepper Sauce,Condiments,76,0,0,OK,25.0,76,3.04,False,True
+22,Gustaf's Knäckebröd,Grains/Cereals,104,0,25,OK,33.25,104,3.1278,False,False
+3,Aniseed Syrup,Condiments,13,70,25,Restock coming,26.0,83,3.1923,False,False
+25,NuNuCa Nuß-Nougat-Creme,Confections,76,0,30,OK,23.75,76,3.2,False,False
+6,Grandma's Boysenberry Spread,Condiments,120,0,25,OK,36.0,120,3.3333,False,False
+37,Gravad lax,Seafood,11,50,25,Restock coming,17.0,61,3.5882,False,False
+12,Queso Manchego La Pastora,Dairy Products,86,0,0,OK,23.5,86,3.6596,False,True
+50,Valkoinen suklaa,Confections,65,0,30,OK,8.25,65,7.8788,False,False
+73,Röd Kaviar,Seafood,101,0,5,OK,2.5,101,40.4,False,False
+48,Chocolade,Confections,15,70,25,Restock coming,2.0,85,42.5,False,False
+66,Louisiana Hot Spiced Okra,Condiments,4,100,20,Restock coming,0.0,104,,False,False
+14,Tofu,Produce,35,0,0,OK,0.0,35,,False,True
+15,Genen Shouyu,Condiments,39,0,5,OK,0.0,39,,False,False

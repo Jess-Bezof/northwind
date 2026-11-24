@@ -1,0 +1,22 @@
+Country,Customers,Revenue,TopCustomer,TopCustomerRevenue,TopCustomerShare,RevenueAtRisk,Dependent,ShareOfCompanyRevenue
+USA,13,245678.2605,Save-a-lot Markets,104361.95,0.4248,104361.95,False,0.1941
+Germany,11,226916.5835,QUICK-Stop,110277.305,0.486,110277.305,False,0.1793
+Austria,2,128003.8385,Ernst Handel,104874.9785,0.8193,104874.9785,True,0.1011
+Brazil,9,108789.1765,Hanari Carnes,32841.37,0.3019,32841.37,False,0.0859
+France,10,80918.3225,Bon app',21963.2525,0.2714,21963.2525,False,0.0639
+UK,7,58971.31,Seven Seas Imports,16215.325,0.275,16215.325,False,0.0466
+Venezuela,4,56810.629,HILARIÓN-Abastos,22768.764,0.4008,22768.764,False,0.0449
+Sweden,2,54495.14,Folk och fä HB,29567.5625,0.5426,29567.5625,True,0.0431
+Canada,3,50196.29,Mère Paillarde,28872.19,0.5752,28872.19,True,0.0397
+Ireland,1,49979.905,Hungry Owl All-Night Grocers,49979.905,1.0,49979.905,True,0.0395
+Belgium,2,33824.855,Suprêmes délices,24088.78,0.7122,24088.78,True,0.0267
+Denmark,2,32661.0225,Simons bistro,16817.0975,0.5149,16817.0975,True,0.0258
+Switzerland,2,31692.659,Richter Supermarkt,19343.779,0.6104,19343.779,True,0.025
+Mexico,5,23582.0775,Tortuga Restaurante,10812.15,0.4585,10812.15,False,0.0186
+Finland,2,19250.0525,Wartian Herkku,15648.7025,0.8129,15648.7025,True,0.0152
+Spain,4,17983.2,Godos Cocina Típica,11446.36,0.6365,11446.36,True,0.0142
+Italy,3,15770.155,Magazzini Alimentari Riuniti,7176.215,0.4551,7176.215,False,0.0125
+Portugal,2,12883.3625,Princesa Isabel Vinhos,6455.94,0.5011,6455.94,True,0.0102
+Argentina,3,8119.1,Océano Atlántico Ltda.,3460.2,0.4262,3460.2,False,0.0064
+Norway,1,5735.15,Santé Gourmet,5735.15,1.0,5735.15,True,0.0045
+Poland,1,3531.95,Wolski  Zajazd,3531.95,1.0,3531.95,True,0.0028

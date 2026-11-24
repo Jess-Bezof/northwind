@@ -1,0 +1,13 @@
+Country,Customers,Revenue,TopCustomer,TopCustomerRevenue,TopCustomerShare,RevenueAtRisk,Dependent,ShareOfCompanyRevenue
+Austria,2,128003.8385,Ernst Handel,104874.9785,0.8193,104874.9785,True,0.1011
+Ireland,1,49979.905,Hungry Owl All-Night Grocers,49979.905,1.0,49979.905,True,0.0395
+Sweden,2,54495.14,Folk och fä HB,29567.5625,0.5426,29567.5625,True,0.0431
+Canada,3,50196.29,Mère Paillarde,28872.19,0.5752,28872.19,True,0.0397
+Belgium,2,33824.855,Suprêmes délices,24088.78,0.7122,24088.78,True,0.0267
+Switzerland,2,31692.659,Richter Supermarkt,19343.779,0.6104,19343.779,True,0.025
+Denmark,2,32661.0225,Simons bistro,16817.0975,0.5149,16817.0975,True,0.0258
+Finland,2,19250.0525,Wartian Herkku,15648.7025,0.8129,15648.7025,True,0.0152
+Spain,4,17983.2,Godos Cocina Típica,11446.36,0.6365,11446.36,True,0.0142
+Portugal,2,12883.3625,Princesa Isabel Vinhos,6455.94,0.5011,6455.94,True,0.0102
+Norway,1,5735.15,Santé Gourmet,5735.15,1.0,5735.15,True,0.0045
+Poland,1,3531.95,Wolski  Zajazd,3531.95,1.0,3531.95,True,0.0028

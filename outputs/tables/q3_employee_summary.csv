@@ -1,0 +1,7 @@
+Employee,Orders,Revenue,AvgOrderValue,Title,Office,HireDate,ShareOfCompanyRevenue,OrdersVsTeam,AvgOrderValueVsTeam
+Margaret Peacock,156,232890.846,1492.89,Sales Representative,USA,1993-05-03,0.184,1.5918,0.9715
+Janet Leverling,127,202812.843,1596.9515,Sales Representative,USA,1992-04-01,0.1602,1.2959,1.0392
+Nancy Davolio,123,192107.6045,1561.8504,Sales Representative,USA,1992-05-01,0.1518,1.2551,1.0163
+Robert King,72,124568.235,1730.1144,Sales Representative,UK,1994-01-02,0.0984,0.7347,1.1258
+Anne Dodsworth,43,77308.0665,1797.862,Sales Representative,UK,1994-11-15,0.0611,0.4388,1.1699
+Michael Suyama,67,73913.1295,1103.181,Sales Representative,UK,1993-10-17,0.0584,0.6837,0.7179

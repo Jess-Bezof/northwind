@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.claude/settings.local.json
+~$*.xlsx
+.pytest_cache/
+
+# Course homework brief: kept local, not republished (LOG D38)
+15.561 FA26 HW 3_ AI-Assisted Business Data Analysis.md

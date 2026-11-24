@@ -1,0 +1,34 @@
+Country,Customer,Revenue_1997,Revenue_1998,Change,ChangePct,ShareOfCountryGrowth,ShareOfTotalGrowth
+USA,Save-a-lot Markets,11650.175,31979.71,20329.535,1.745,0.3822,0.088
+USA,White Clover Markets,3013.975,14350.15,11336.175,3.7612,0.2131,0.0491
+USA,Great Lakes Food Market,0.0,9942.135,9942.135,,0.1869,0.043
+USA,Rattlesnake Canyon Grocery,14364.2,19982.55,5618.35,0.3911,0.1056,0.0243
+USA,Old World Delicatessen,1755.0,3615.2875,1860.2875,1.06,0.035,0.0081
+USA,Lonesome Pine Restaurant,0.0,1709.4,1709.4,,0.0321,0.0074
+USA,Let's Stop N Shop,0.0,1378.07,1378.07,,0.0259,0.006
+USA,Split Rail Beer & Ale,485.0,1117.0,632.0,1.3031,0.0119,0.0027
+USA,The Cracker Box,0.0,326.0,326.0,,0.0061,0.0014
+USA,Trail's Head Gourmet Provisioners,0.0,237.9,237.9,,0.0045,0.001
+USA,The Big Cheese,0.0,69.6,69.6,,0.0013,0.0003
+USA,Hungry Coyote Import Store,102.4,0.0,-102.4,-1.0,-0.0019,-0.0004
+USA,Lazy K Kountry Store,147.0,0.0,-147.0,-1.0,-0.0028,-0.0006
+Germany,QUICK-Stop,15585.76,37217.315,21631.555,1.3879,0.4563,0.0937
+Germany,Königlich Essen,3275.0,19582.774,16307.774,4.9795,0.344,0.0706
+Germany,Frankenversand,1512.0,5078.7375,3566.7375,2.359,0.0752,0.0154
+Germany,Drachenblut Delikatessen,0.0,2722.76,2722.76,,0.0574,0.0118
+Germany,Alfreds Futterkiste,0.0,2250.5,2250.5,,0.0475,0.0097
+Germany,Blauer See Delikatessen,285.8,2160.0,1874.2,6.5577,0.0395,0.0081
+Germany,Ottilies Käseladen,1434.0,2737.28,1303.28,0.9088,0.0275,0.0056
+Germany,Morgenstern Gesundkost,0.0,245.0,245.0,,0.0052,0.0011
+Germany,Toms Spezialitäten,700.24,910.4,210.16,0.3001,0.0044,0.0009
+Germany,Die Wandernde Kuh,1942.0,1485.8,-456.2,-0.2349,-0.0096,-0.002
+Germany,Lehmanns Marktstand,3698.84,1449.9325,-2248.9075,-0.608,-0.0474,-0.0097
+Brazil,Hanari Carnes,0.0,23821.2,23821.2,,0.7512,0.1031
+Brazil,Ricardo Adocicados,2386.4,6998.525,4612.125,1.9327,0.1454,0.02
+Brazil,Tradição Hipermercados,190.0,4234.264,4044.264,21.2856,0.1275,0.0175
+Brazil,Queen Cozinha,2720.48,4346.75,1626.27,0.5978,0.0513,0.007
+Brazil,Que Delícia,1194.27,1353.6,159.33,0.1334,0.005,0.0007
+Brazil,Wellington Importadora,1707.84,1135.25,-572.59,-0.3353,-0.0181,-0.0025
+Brazil,Comércio Mineiro,1128.0,513.75,-614.25,-0.5445,-0.0194,-0.0027
+Brazil,Gourmet Lanchonetes,1020.0,405.35,-614.65,-0.6026,-0.0194,-0.0027
+Brazil,Familia Arquibaldo,750.13,0.0,-750.13,-1.0,-0.0237,-0.0032

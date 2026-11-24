@@ -1,0 +1,11 @@
+ProductID,ProductName,CategoryName,UnitsInStock,UnitsOnOrder,ReorderLevel,Status,MonthlyDemand,StockPosition,MonthsOfCover,AtRisk,ReorderLevelZero
+60,Camembert Pierrot,Dairy Products,19,0,0,OK,135.0,19,0.14,True,True
+13,Konbu,Seafood,24,0,5,OK,161.25,24,0.15,True,False
+7,Uncle Bob's Organic Dried Pears,Produce,15,0,10,OK,99.5,15,0.15,True,False
+62,Tarte au sucre,Confections,17,0,0,OK,87.75,17,0.19,True,True
+8,Northwoods Cranberry Sauce,Condiments,6,0,0,OK,29.0,6,0.21,True,True
+30,Nord-Ost Matjeshering,Seafood,10,0,15,Missed reorder,48.0,10,0.21,True,False
+38,Côte de Blaye,Beverages,17,0,15,OK,65.0,17,0.26,True,False
+68,Scottish Longbreads,Confections,6,10,15,Restock coming,56.5,16,0.28,True,False
+26,Gumbär Gummibärchen,Confections,15,0,0,OK,52.75,15,0.28,True,True
+72,Mozzarella di Giovanni,Dairy Products,14,0,0,OK,48.25,14,0.29,True,True
