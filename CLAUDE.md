@@ -141,7 +141,7 @@ northwind-project/
 ├── outputs/
 │   ├── figures/            # generated charts
 │   └── tables/             # generated CSV/HTML tables
-└── docs/                   # webpage (e.g., index.html for GitHub Pages)
+└── docs/                   # webpage (index.html, hosted on Netlify)
 ```
 
 - **Tests (LOG D14):** every question script gets `tests/test_qN_*.py` (pytest). Each test file should include:

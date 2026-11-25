@@ -151,7 +151,7 @@ This plan covers the four business questions for the Northwind webpage. For each
 
 ## Webpage plan (agreed 2026-11-24, LOG D26)
 
-**Build:** `src/build_site.py`, run at the end of `run_all.py`, writes `docs/index.html` for GitHub Pages (served from `/docs`).
+**Build:** `src/build_site.py`, run at the end of `run_all.py`, writes `docs/index.html`, the public webpage (hosted on Netlify at https://northwind-hw3.netlify.app/).
 - It fills an HTML template (`site/template.html`) with numbers taken directly from the analysis functions. No number in the page text is typed by hand.
 - It builds four **interactive Plotly charts** from the same DataFrames the question scripts produce, and embeds them in the page. plotly.js is loaded once, from its CDN.
 - The tested matplotlib PNGs in `outputs/figures/` stay as static versions for the repo and README.

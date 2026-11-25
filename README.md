@@ -2,7 +2,7 @@
 
 Reproducible Python analysis of the Northwind dataset. It answers four business questions for a manager and produces every number, chart, and table shown on the project webpage.
 
-- **Webpage:** https://jess-bezof.github.io/northwind/
+- **Webpage:** https://northwind-hw3.netlify.app/
 - **Repository:** https://github.com/Jess-Bezof/northwind
 - **Data:** `Northwind Database.xlsx` (provided with the course; included in this repo, never modified)
 
@@ -32,7 +32,7 @@ Every number on the webpage can be traced to this printout or to the CSV tables 
 python -m pytest
 ```
 
-There are 40 tests: one file per question, plus one for the webpage.
+There are 41 tests: one file per question, plus one for the webpage.
 
 The question tests:
 
@@ -55,7 +55,7 @@ The repository was verified by a clean run: a fresh virtual environment built fr
 
 The webpage is generated, not hand-written:
 
-- `src/build_site.py` takes every number, table, and chart from the analysis functions and fills them into the page template `site/template.html`. The result is `docs/index.html`, which GitHub Pages serves.
+- `src/build_site.py` takes every number, table, and chart from the analysis functions and fills them into the page template `site/template.html`. The result is `docs/index.html`, which Netlify serves as the public webpage.
 - To change the wording, edit `site/template.html` and rerun `python src/run_all.py`. Do not edit `docs/index.html` directly; it is overwritten on every run.
 - Each `${name}` placeholder in the template is filled by Python. The build stops with an error if any placeholder has no value.
 - The webpage charts are interactive Plotly charts. They are built from the same tested data as the static matplotlib charts in `outputs/figures/`, with the same encodings. The page loads plotly.js from the Plotly CDN, so viewing it needs an internet connection.
@@ -133,7 +133,7 @@ Applied in `src/load_data.py`:
 ├── outputs/
 │   ├── figures/             # generated static charts (PNG)
 │   └── tables/              # generated tables (CSV)
-├── docs/                    # generated webpage served by GitHub Pages (index.html, .nojekyll)
+├── docs/                    # generated webpage served by Netlify (index.html)
 ├── notebooks/
 │   └── 01_exploration.ipynb # initial exploration used to choose the questions
 ├── ANALYSIS_PLAN.md         # the four questions: rationale, method, visuals, decisions
