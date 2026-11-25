@@ -460,3 +460,11 @@ Record of project decisions, newest at the bottom. Each entry says what was deci
 - **Updated:** the webpage link in `README.md`, plus the GitHub Pages mentions in `README.md`, `ANALYSIS_PLAN.md` and `CLAUDE.md`. The README test count was corrected to 41. All 41 tests pass. Pushed as commit `8f49073`, with the student's approval.
 - **Log restored:** entries D35–D38 had gone missing from the local `LOG.md`, which ended at D34. The student restored them from the last commit with `git checkout LOG.md`.
 - **Decided by:** Student.
+
+### D40. Docstring for the repository-link test (eighth skill pass)
+- **Skill pass:** The student ran `/python-docstrings tests/test_build_site.py`.
+  - The skill wrote 1 docstring, for `test_page_links_to_the_real_repository` (added in D38). The other docstrings in the file already met the rules and were unchanged.
+  - Report: 1 assumption to check (the summary leaves out the `OWNER/REPO` placeholder check, which follows from the main check) and 1 "also noticed" item (the test types the repository URL instead of reading `REPO_URL`, which is deliberate). Both accepted.
+- **Checks:** only the docstring changed; 15/15 webpage tests pass.
+- **Pushed** with the student's approval.
+- **Decided by:** Student.

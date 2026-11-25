@@ -132,6 +132,14 @@ def test_plotly_js_version_matches_installed_plotly(page):
 
 
 def test_page_links_to_the_real_repository(page):
+    """Check the page links to the published repository and README.
+
+    Args:
+        page (str): ``page`` fixture.
+
+    Returns:
+        None.
+    """
     assert 'href="https://github.com/Jess-Bezof/northwind"' in page
     assert 'href="https://github.com/Jess-Bezof/northwind#readme"' in page
     assert "OWNER/REPO" not in page
