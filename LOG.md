@@ -453,3 +453,10 @@ Record of project decisions, newest at the bottom. Each entry says what was deci
 - **Already ignored:** `.claude/settings.local.json`, caches, virtual environments, and Excel lock files.
 - **Pushed:** the first commit on `main`, with the student's approval.
 - **Decided by:** Student (keep the brief out; push now).
+
+### D39. Webpage hosted on Netlify
+- **What happened:** the student published the webpage on Netlify at https://northwind-hw3.netlify.app/ instead of GitHub Pages. This supersedes the GitHub Pages address in D38; D38 is left as written.
+- **Checked:** the live Netlify page matches the local `docs/index.html`. The only differences are a comment and a script that Netlify inserts.
+- **Updated:** the webpage link in `README.md`, plus the GitHub Pages mentions in `README.md`, `ANALYSIS_PLAN.md` and `CLAUDE.md`. The README test count was corrected to 41. All 41 tests pass. Pushed as commit `8f49073`, with the student's approval.
+- **Log restored:** entries D35–D38 had gone missing from the local `LOG.md`, which ended at D34. The student restored them from the last commit with `git checkout LOG.md`.
+- **Decided by:** Student.
